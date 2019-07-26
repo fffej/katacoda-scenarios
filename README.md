@@ -1,10 +1,7 @@
-# Interactive Katacoda Scenarios
+# An Introduction to Linux
+
+The goal of this is to get you used to Linux.
 
 [![](http://shields.katacoda.com/katacoda/fffej/count.svg)](https://www.katacoda.com/fffej "Get your profile on Katacoda.com")
 
 Visit https://www.katacoda.com/fffej to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
