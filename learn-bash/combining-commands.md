@@ -8,7 +8,7 @@ The `|` operator feeds the output of the left hand side into the input of the ri
 
 You can append any number of pipe operators into to create commands. Let's find out what the most common starting letter of directory names is. This introduces a few new commands. Use `man` to find out what they do!
 
-`ls / | cut -c1 -sort -rn | uniq -c | sort -rn`{{execute}}
+`ls / | cut -c1 | sort -rn | uniq -c | sort -rn`{{execute}}
 
 `tr` is a textual replacement command. Let's use that to translate the `ls /` command to be more shouty by textually replacing all lowerclass characters with their upper class equivalents (as always, use `man tr` to find out more information).
 
