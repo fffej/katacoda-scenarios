@@ -17,7 +17,7 @@ The last point is hugely important to UNIX philosophy. Here's a philosophy for U
 
 Hard drives, modems, keyboards, printers and even network communications are just simple streams of bytes exposed through the file system.
 
-Don't worry about the details yet. Do remember than `man` and `apropos`
+Don't worry about the details yet. Do remember that you can use `man` and `apropos` to find out more information about a command.
 
 A great example of this is that all system properties are available as a file. For example, here's how you could read the CPU info.
 
