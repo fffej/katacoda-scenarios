@@ -17,3 +17,7 @@ To get an idea of the difference between the two, you can use `man more` or `man
 What if you just want to look at the first few lines?
 
 `head /var/log/dpkg.log`{{execute}}
+
+Or the last?
+
+`tail /var/log/dpkg.log`{{execute}}

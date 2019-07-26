@@ -19,6 +19,9 @@
     },{
       "title": "Text slicing and dicing",
       "text": "slicing-dicing-text.md"
+    },{
+      "title": "Combining commands",
+      "text": "combining-commands.md"
     }],
     "intro": {
       "text": "intro.md",
