@@ -1,6 +1,6 @@
-In Linux, the file system consists of a single file system, all accessible via `/`.
+# Linux file system
 
-## Listing the directory
+In Linux, the file system consists of a single file system, all accessible via `/`.
 
 The `ls` command is used to list the contents. Let's list the root directory.
 
@@ -14,3 +14,7 @@ Each of these folders have a meaning. Here's some of the important ones.
 * `tmp` - storage for temporary files (periodically cleaned)
 * `home` - contains user directory information
 * `lib` - contains libraries
+
+`ls` has many flags to control the output.
+
+`ls --help`{{execute}}

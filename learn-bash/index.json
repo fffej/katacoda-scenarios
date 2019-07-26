@@ -1,12 +1,15 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Lets learn enough Bash to be dangerious",
+  "description": "A simple set of exercises to introduce you to the basics of Bash.",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
     "steps": [{
       "title": "File commands",
       "text": "file-commands.md"
+    },{
+      "title": "Understanding file permissions",
+      "text": "file-permissions.md"
     }],
     "intro": {
       "text": "intro.md",
