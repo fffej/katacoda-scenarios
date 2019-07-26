@@ -13,6 +13,12 @@
     },{
       "title": "File system commands",
       "text": "filesystem-commands.md"
+    },{
+      "title": "Text commands",
+      "text": "text-commands.md"
+    },{
+      "title": "Text slicing and dicing",
+      "text": "slicing-dicing-text.md"
     }],
     "intro": {
       "text": "intro.md",
