@@ -10,6 +10,9 @@
     },{
       "title": "Understanding file permissions",
       "text": "file-permissions.md"
+    },{
+      "title": "File system commands",
+      "text": "filesystem-commands.md"
     }],
     "intro": {
       "text": "intro.md",
