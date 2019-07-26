@@ -5,6 +5,9 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
+      "title": "What is Unix?",
+      "text": "what-is-unix.md"
+    },{
       "title": "File commands",
       "text": "file-commands.md"
     },{
