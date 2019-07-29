@@ -22,7 +22,3 @@ Don't worry about the details yet. Do remember that you can use `man` and `aprop
 A great example of this is that all system properties are available as a file. For example, here's how you could read the CPU info.
 
 `cat /proc/cpuinfo`{{execute}}
-
-If you want a stream of random numbers then read from `/dev/random`. It's an infite stream of random numbers. In the example below, we feed it into another small program (`od` which stands for octal dump!) to get a random number. Running it each time should produce a new result.
-
-`od -vAn -N4 -tu4 < /dev/random`{{execute}}
