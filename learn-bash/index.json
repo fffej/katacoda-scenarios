@@ -35,6 +35,9 @@
       "title": "Combining commands",
       "text": "combining-commands.md"
     },{
+      "title": "Process management",
+      "text": "process-management.md"
+    },{
       "title": "An assortment of other useful commands",
       "text": "random-useful-commands.md"
     }],
