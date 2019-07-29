@@ -1,8 +1,8 @@
 {
   "title": "Lets learn enough Bash to be dangerous",
   "description": "A simple set of exercises to introduce you to the basics of Bash.",
-  "difficulty": "beginner",
-  "time": "2 minutes",
+  "difficulty": "Beginner",
+  "time": "20 minutes",
   "details": {
     "steps": [{
       "title": "What is Unix?",
