@@ -8,6 +8,9 @@
       "title": "What is Unix?",
       "text": "what-is-unix.md"
     },{
+      "title": "Everything is a file",
+      "text": "everything-is-a-file.md"
+    },{
       "title": "File commands",
       "text": "file-commands.md"
     },{
