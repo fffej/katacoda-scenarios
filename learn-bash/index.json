@@ -34,6 +34,9 @@
     },{
       "title": "Combining commands",
       "text": "combining-commands.md"
+    },{
+      "title": "An assortment of other useful commands",
+      "text": "random-useful-commands.md"
     }],
     "intro": {
       "text": "intro.md",
