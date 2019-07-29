@@ -1,4 +1,4 @@
-Unix has plenty of options for editing text.
+Unix has plenty of options for editing text. Pick an editor and invest a few minutes in learning it. There's great web resources available for all of these options.
 
 Regardless of what you choose, always understand enough `vi` to be able to edit text, as it's available on almost all systems. `emacs` is a good choice too, and is especially awesome when customized.
 
