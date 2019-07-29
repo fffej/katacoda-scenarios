@@ -1,6 +1,6 @@
 Bash is the name for the terminal environment you are using. 
 
-For inputting to the shell, Bash uses (Readline)[https://en.wikipedia.org/wiki/GNU_Readline] which has a whole bunch of really useful keyboard shortcuts.
+For inputting to the shell, Bash uses [readline](https://en.wikipedia.org/wiki/GNU_Readline) which has a whole bunch of really useful keyboard shortcuts.
 
 By default, it uses Emacs style shortcuts. Here's some of the most important shortcuts:
 
