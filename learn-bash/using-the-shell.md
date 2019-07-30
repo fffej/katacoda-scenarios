@@ -4,6 +4,8 @@ For inputting to the shell, Bash uses [readline](https://en.wikipedia.org/wiki/G
 
 By default, it uses Emacs style shortcuts. Here's some of the most important shortcuts:
 
+Note that sadly many of these don't work in this browser based version, but they are worth remembering for the Terminal proper.
+
 * `Tab` - Autocompletes from the current cursor position
 * `Ctrl + r` - Reverse search (use this to find older commands you've executed)
 * `Ctrl + t` - Transpose - use this when you type `sl` and mean `ls`

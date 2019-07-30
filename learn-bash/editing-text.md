@@ -2,6 +2,12 @@ Unix has plenty of options for editing text. Pick an editor and invest a few min
 
 Regardless of what you choose, always understand enough `vi` to be able to edit text, as it's available on almost all systems. `emacs` is a good choice too, and is especially awesome when customized.
 
+The simplest option is `nano` - it's almost friendly!
+
+# nano
+
+TODO
+
 # ed
 
 The original editor was known as `ed`. `ed` is a line oriented editor and it's available everywhere. It's also been described as _the most user-hostile editor ever created_ ([Peter Salus](https://en.wikipedia.org/wiki/Peter_H._Salus)).
