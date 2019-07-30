@@ -38,6 +38,9 @@
       "title": "Process management",
       "text": "process-management.md"
     },{
+      "title": "Switching users",
+      "text": "su-and-sudo.md"
+    },{
       "title": "An assortment of other useful commands",
       "text": "random-useful-commands.md"
     }],
