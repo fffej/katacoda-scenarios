@@ -50,6 +50,17 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "countries.txt",
+          "target": "~/"
+        },{
+          "file": "chemical-elements.txt",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
