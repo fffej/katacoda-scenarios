@@ -17,3 +17,7 @@ There's much more to learn about `grep`. Reading the manual pages is highly reco
 One of the most powerful is `cut`. This allows you to treat each line as a delimited list and extract data appropriately. Let's extract out the first and third fields (skipping the time).
 
 `cut -f1,3 -d" " /var/log/dpkg.log`{{execute}}
+
+`sed` is a stream editor and can perform operations on a stream of text in a variety of ways.
+
+TODO examples
