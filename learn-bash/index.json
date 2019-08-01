@@ -29,11 +29,11 @@
       "title": "Text slicing and dicing",
       "text": "slicing-dicing-text.md"
     },{
-      "title": "Editing text",
-      "text": "editing-text.md"
-    },{
       "title": "Combining commands",
       "text": "combining-commands.md"
+    },{
+        "title": "Editing text",
+        "text": "editing-text.md"      
     },{
       "title": "Process management",
       "text": "process-management.md"
