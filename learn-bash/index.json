@@ -46,7 +46,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "courseData": "setup.sh"
     },
     "finish": {
       "text": "finish.md"
