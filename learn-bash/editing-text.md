@@ -6,11 +6,9 @@ The simplest option is `nano` - it's almost friendly! However, it's worth being 
 
 # nano / pico
 
-You'll need to install `nano` on this image. It's a small lightweight editor.
+`nano` is probably the simplest editor to get started with. It's basic and it works. The keyboard shortcuts are well documented.
 
-`apt-get install nano`{{execute}}
-
-As you can see from starting `nano`, the keyboard short cuts are documented at the bottom. I won't go into detail about this.
+`nano`{{execute}}
 
 # ed
 
@@ -27,6 +25,8 @@ Now take a deep breath and hope that
 `cat ~/helloworld.txt`{{execute}}
 
 Displays the text you entered.
+
+Why is this important? Well, just wait till you see `sed` :)
 
 # vi
 
