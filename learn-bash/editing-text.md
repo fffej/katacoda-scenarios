@@ -2,6 +2,16 @@ Unix has plenty of options for editing text. Pick an editor and invest a few min
 
 Regardless of what you choose, always understand enough `vi` to be able to edit text, as it's available on almost all systems. `emacs` is a good choice too, and is especially awesome when customized.
 
+The simplest option is `nano` - it's almost friendly! However, it's worth being aware of both `ed` (so you can be familiar with its breathren `sed`), and `vi` simpler because of its ubiquity.
+
+# nano / pico
+
+You'll need to install `nano` on this image. It's a small lightweight editor.
+
+`apt-get install nano`{{execute}}
+
+As you can see from starting `nano`, the keyboard short cuts are documented at the bottom. I won't go into detail about this.
+
 # ed
 
 The original editor was known as `ed`. `ed` is a line oriented editor and it's available everywhere. It's also been described as _the most user-hostile editor ever created_ ([Peter Salus](https://en.wikipedia.org/wiki/Peter_H._Salus)).

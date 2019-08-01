@@ -38,6 +38,9 @@
       "title": "Process management",
       "text": "process-management.md"
     },{
+      "title": "Switching users",
+      "text": "su-and-sudo.md"
+    },{
       "title": "An assortment of other useful commands",
       "text": "random-useful-commands.md"
     }],
@@ -51,7 +54,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
   },
   "backend": {
     "imageid": "bash"
