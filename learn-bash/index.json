@@ -38,6 +38,9 @@
         "title": "Editing text",
         "text": "editing-text.md"      
     },{
+      "title": "Shell scripting",
+      "text": "shell-scripting.md"
+    },{
       "title": "Process management",
       "text": "process-management.md"
     },{
