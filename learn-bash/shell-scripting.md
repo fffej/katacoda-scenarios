@@ -29,16 +29,17 @@ FOO="bar" # set the value of a local variable to bar
 echo "Value of variable is $FOO"
 
 # Loops. Wildcards expand out to be files in the directory
-for i = 1 2 a "banana" * 
+for i in 1 2 a "banana" * 
 do
   echo "Looping $i"
 done
 
 # if statement
-if [ "$FOO" != "bar" ] then
-    echo
-  else
-    echo "Test failed"
+if [ "$FOO" != "bar" ] 
+then
+  echo "Success"
+else
+  echo "Test failed"
 fi
 
 # Command line arguments
