@@ -1,4 +1,4 @@
-UNIX is an opearting system organized around the following core characteristics:
+UNIX is an operating system organized around the following core characteristics:
 
 * A centrally organized kernel which manages systems and processes
 * Non kernel software is organized into separate processes
