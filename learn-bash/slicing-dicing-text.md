@@ -14,7 +14,7 @@ We can add the `v` flag to find the lines NOT containing ium.
 
 There's much more to learn about `grep`. Reading the manual pages is highly recommended.
 
-One of the most powerful is `cut`. This allows you to treat each line as a delimited list and extract data appropriately. Let's extract out the first and third fields (skipping the time).
+One of the most powerful is `cut`. This allows you to treat each line as a delimited list and extract data appropriately. Let's extract out the first and third fields (skipping the second).
 
 `cut -c1,3 ~/chemical-elements.txt`{{execute}}
 

@@ -20,6 +20,8 @@ The `sed` command is a powerful stream editor for filtering and transforming tex
 
 `ls -al | sed s/root/ROOT/g`{{execute}}
 
+In general, you don't want to use `ls` like this and there's a UNIX command called `find` that allow you to do this in a much more structured way. As an exercise, can you perform the above commands using `find`?
+
 ## Redirecting standard input / output
 
 `>` redirects standard output to a file. A common use of this is to put contents into a file:
