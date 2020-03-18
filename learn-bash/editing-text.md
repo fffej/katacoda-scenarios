@@ -18,11 +18,11 @@ Let's create a hello world in ed.
 
 `ed`{{execute}}
 
-At startup, `ed` is in command mode. Let's type `a` (and press return) to get it into append-mode. Now type the text you want on a single line (e.g. `Hello world!`) and press return. Now this is a single line in the buffer. Type `.` and press return to exit append mode. Now you are at a command prompt again, type `w ~/helloworld.txt`, press return and press `q` and return to exit.
+At startup, `ed` is in command mode. Let's type `a` (and press return) to get it into append-mode. Now type the text you want on a single line (e.g. `Hello world!`) and press return. Now this is a single line in the buffer. Type `.` and press return to exit append mode. Now you are at a command prompt again, type `w helloworld.txt`, press return and press `q` and return to exit.
 
 Now take a deep breath and hope that
 
-`cat ~/helloworld.txt`{{execute}}
+`cat helloworld.txt`{{execute}}
 
 Displays the text you entered.
 
@@ -30,7 +30,7 @@ Why is this important? Well, just wait till you see `sed` :)
 
 # vi
 
-`vi` builds upon `ed` and is considered _sligthly_ friendlier.
+`vi` builds upon `ed` and is considered _slightly_ friendlier.
 
 ![Exiting Vim](https://github.com/fffej/katacoda-scenarios/raw/master/learn-bash/images/exiting-vim.jpg)
 
